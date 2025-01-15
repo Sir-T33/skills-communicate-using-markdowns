@@ -6,3 +6,9 @@
 ``` python
 print("Hello World")
 ```
+
+
+- [x] Turn on GutHub Pages
+- [x] Push changes as Commits
+- [ ] Check the preview to be sure you have made right changes
+- [ ] Peer reviews and final submission
